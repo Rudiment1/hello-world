@@ -1,3 +1,3 @@
 # hello-world
-HW respository
-I enjoy driving fast on roads that are properly paved and maintained
+Widget Enterprise
+A space to create a venture 
